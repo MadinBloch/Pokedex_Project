@@ -1,7 +1,7 @@
 # Pokedex App
 
 ![Pokedex App]
- `https://pokedex-project-iota-one.vercel.app/` with the actual URL where your Pokedex App is deployed on Vercel.
+ [https://pokedex-project-iota-one.vercel.app/] with the actual URL where your Pokedex App is deployed on Vercel.
 
 
 A dynamic Pokedex web application built with React, featuring state management, routing, and data fetching through Axios. Easily deployable on Vercel for seamless hosting.

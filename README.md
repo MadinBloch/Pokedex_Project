@@ -1,8 +1,24 @@
-# React + Vite
+# Pokedex App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Pokedex App](https://pokedex-project-iota-one.vercel.app/)
 
-Currently, two official plugins are available:
+A dynamic Pokedex web application built with React, featuring state management, routing, and data fetching through Axios. Easily deployable on Vercel for seamless hosting.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Overview
+
+Welcome to the Pokedex App! This project showcases the power of React for state management and routing, combined with Axios for efficient data fetching. Explore the world of Pokemon with a user-friendly interface and real-time data.
+
+## Features
+
+- **Dynamic Routing:** Navigate between different sections with React Router.
+- **Real-time Data:** Utilizes the Pokemon API to fetch the latest information.
+- **Responsive Design:** Tailwind CSS ensures a visually appealing and responsive UI.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/MadinBloch/Pokedex_App.git
+   cd Pokedex_App
+
